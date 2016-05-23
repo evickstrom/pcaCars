@@ -11,3 +11,4 @@ summary(pcaCars)
 
 # scree plot
 plot(pcaCars, type = "l")
+
